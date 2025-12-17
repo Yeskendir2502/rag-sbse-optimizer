@@ -1,0 +1,12 @@
+{
+  "splitter_type": "paragraph",
+  "chunk_size": 256,
+  "chunk_overlap": 0,
+  "embedding_model": "bge-base",
+  "normalize_embeddings": true,
+  "index_type": "HNSW",
+  "hnsw_M": 24,
+  "hnsw_efSearch": 100,
+  "top_k": 10,
+  "hybrid_weight": 0.5
+}
